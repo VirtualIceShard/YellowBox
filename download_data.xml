@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<download-data>
+<download-config order="as_listed" fail="proceed"></download-config>
+<downloads>
+<download url="https://code.jquery.com/jquery-3.2.1.min.js" filename="jquery-3.2.1.min.js"></download>
+<download url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIsxYsvN8nG2DmMyeZXuwsyLIyRDm_ZcKVufowez1OUB1l-7JCzzENYM" filename="image.png">
+</download>
+</downloads>
+</download-data>
